@@ -14,6 +14,11 @@
 
 - 📚 I enjoy to study; 🎧 I love music;
 
+I also love learning new things, and I'm always using some of my free time to learn something new.
+
+Comprehensive knowledge of software architecture, object-oriented programming, agile methodologies, cloud services, full software delivery lifecycle including continuous integration and delivery, relational and non-relational databases, testing procedures and web-based applications.
+
+Skills/Interests: PHP, Laravel, MySQL, JavaScript, TypeScript, HTML, CSS, Bootstrap, Jquery, React, React Native, Node, C, C++, Redis, Clean Code, OOP, FP, TDD, BDD, Git, NoSQL, and too many others;
 
 <hr>
 
