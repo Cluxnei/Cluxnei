@@ -8,8 +8,8 @@
 </h3>
 
 ## ✨ A little bit about me:
-- <img src="https://lipis.github.io/flag-icon-css/flags/4x3/br.svg" width="15"> Brazilian, 23 years old;
-- 👩🏻‍💻 I've been working in the development area for **seven years**;
+- <img src="https://lipis.github.io/flag-icon-css/flags/4x3/br.svg" width="15"> Brazilian;
+- 👩🏻‍💻 I've been working in the development area for **eight years**;
 - 🎓 Graduated in Systems Analysis and Development from **FATEC-SO**;
 
 - 📚 I enjoy to study; 🎧 I love music;
