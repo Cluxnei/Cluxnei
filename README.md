@@ -8,7 +8,7 @@
 </h3>
 
 ## ✨ A little bit about me:
-- <img src="https://lipis.github.io/flag-icon-css/flags/4x3/br.svg" width="15"> Brazilian;
+- 🇧🇷 Brazilian;
 - 👩🏻‍💻 I've been working in the development area for **eight years**;
 - 🎓 Graduated in Systems Analysis and Development from **FATEC-SO**;
 
