@@ -4,7 +4,7 @@
 <h3 align="left">
     Think about how everything works, always thinking of how to make the world a better place to live.
     <br>
-    Happy to meet you, hope you like my profile ❤
+    Happy to meet you, hope you like my profile!
 </h3>
 
 ## ✨ A little bit about me:
